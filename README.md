@@ -108,7 +108,3 @@ You can generate strong passwords with customizable length and character sets (w
 This project is open-source and available under the MIT License. Feel free to use and modify it for personal use.
 
 ---
-
-## 🙌 Contributions
-
-Contributions, issues, and feature requests are welcome! Feel free to fork the repository and submit a pull request.
