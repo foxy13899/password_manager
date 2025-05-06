@@ -94,18 +94,3 @@ You can generate strong passwords with customizable length and character sets (w
 - Consider implementing PBKDF2 or bcrypt for key derivation in future versions.
 
 ---
-
-## 🧠 Future Improvements
-
-- Add password expiry reminders
-- Export/import encrypted backups
-- Auto-lock after inactivity
-- GUI wrapper (e.g., with Tkinter or PyQt)
-
----
-
-## 📝 License
-
-This project is open-source and available under the MIT License. Feel free to use and modify it for personal use.
-
----
