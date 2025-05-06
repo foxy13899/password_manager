@@ -20,7 +20,7 @@ A simple yet secure command-line password manager written in Python. It uses AES
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/foxy13899/password-manager
+git clone https://github.com/foxy13899/password_manager
 cd password-manager
 ```
 
