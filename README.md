@@ -43,7 +43,8 @@ On first launch, you'll be prompted to set a master password. You'll need to acc
 ---
 
 ## 🔧 Usage
-
+The default password is "password".
+To change it, use a sha-512 hash and paste the hash of your new password in the masterkey variable in the env file
 Once inside the CLI, you can choose from several options:
 
 ```
