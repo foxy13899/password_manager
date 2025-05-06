@@ -20,7 +20,7 @@ A simple yet secure command-line password manager written in Python. It uses AES
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/password-manager-cli.git
+git clone https://github.com/foxy13899/password-manager-cli.git
 cd password-manager-cli
 ```
 
@@ -38,7 +38,7 @@ pip install pycryptodome python-dotenv tabulate
 python password_manager.py
 ```
 
-On first launch, you'll be prompted to set a master password. This is required to access your stored credentials in future sessions.
+On first launch, you'll be prompted to set a master password. You'll need to access your stored credentials in future sessions.
 
 ---
 
@@ -68,7 +68,7 @@ Passwords are encrypted and saved in `pass.json`.
 
 ### 🔍 View Passwords
 
-Decrypt stored entries by selecting the platform name. You will see all associated accounts and passwords in a readable format.
+Select the platform name to decrypt stored entries. You will then see all associated accounts and passwords in a readable format.
 
 ### 🔐 Generate Password
 
